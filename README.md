@@ -2,7 +2,7 @@
 
 Esse aplicativo é totalmente para fins de estudos. Recriado pela conclusão do curso "Flutter Apps: Alcool ou Gasolina" feito pela plataforma do balta.io
 
-<img src="assets/imagem/Captura de Tela 2020-05-03 às 17.11.56.png">
+<img src="assets/images/Captura de Tela 2020-05-03 às 17.11.56.png">
 
 ## Getting Started
 
